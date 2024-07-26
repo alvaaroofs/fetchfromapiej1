@@ -11,4 +11,4 @@ root.render(
 );
 
 //Metemos los React.StrictMode como comentario para que no nos haga un fetch
-//dos veces
+//dos veces.
